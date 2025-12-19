@@ -1,0 +1,7 @@
+{
+  "name": "Spark Hosting",
+  "description": "Premium Minecraft server hosting with high-performance plans, special Christmas offers, and a dedicated Discord support system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
